@@ -1,2 +1,0 @@
-# SnaffCon.github.io
-webz
